@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+h1{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-size: 40px;
+  margin-left: 20px;
+}
+.hr {
+  width: 20%;
+  margin: auto;
+}
